@@ -1,3 +1,5 @@
+# Readme.md
+
 [Jenkins_task.pdf](attachment:1dd9a150-76b9-41d2-afb8-896c1cfe0f30:Jenkins_task.pdf)
 
 # Jenkins task
@@ -81,7 +83,9 @@ You are responsible for complete automation.
     - Ensure port 80 is open
     - Website should be accessible via browser
     
-    ![Screenshot (276).png](attachment:3282bfc9-c394-4acc-a3d9-5abeb821c559:Screenshot_(276).png)
+    ![Screenshot (276).png](attachment:11336853-479b-43ec-8455-45d1cada3243:Screenshot_(276).png)
+    
+    ![Screenshot (282).png](attachment:c068e9b3-6834-47b4-ac62-7c3e987ecf7f:c40bf4dc-8f89-4aa4-98a0-f312b2281cc0.png)
     
     ---
     
@@ -94,9 +98,7 @@ You are responsible for complete automation.
 gym-static-website
 ```
 
-![Screenshot (277).png](attachment:4cffe498-f296-4060-8109-261131b60e1d:Screenshot_(277).png)
-
-![Screenshot (282).png](attachment:747c0101-2169-4f07-84bc-a6d5d6ee3d4d:b647db1f-5c99-4428-be79-cb7ef53ceeb0.png)
+![Screenshot (277).png](attachment:f5d753c9-9b9a-4635-9737-0249ec5fcf6b:Screenshot_(277).png)
 
 1. Add the following HTML code:
     
@@ -148,7 +150,7 @@ git remote add origin https://github.com/sakshigit07/gym-static-website.git
 git push -u origin main
 ```
 
-![Screenshot (278).png](attachment:0ff9181e-0a57-4793-b189-0f570697857a:Screenshot_(278).png)
+![Screenshot (278).png](attachment:23e6cf97-3b3c-480d-bf68-45e940a67d7d:Screenshot_(278).png)
 
 ---
 
@@ -170,7 +172,7 @@ Hi from FitLife Gym
 
 Push the changes to GitHub.
 
-![Screenshot (279).png](attachment:73699555-f772-45e3-9d99-5b77a6157b8f:Screenshot_(279).png)
+![Screenshot (279).png](attachment:ec93007b-1a69-461b-b7a3-3bffefc39040:Screenshot_(279).png)
 
 ---
 
@@ -179,7 +181,7 @@ Push the changes to GitHub.
 - Configure GitHub webhook
 - Trigger Jenkins job automatically on push
 
-![Screenshot (280).png](attachment:7f5bc11c-28f6-4c05-ba54-5321ab77fc8b:Screenshot_(280).png)
+![Screenshot (280).png](attachment:b22d662d-7b4c-428d-b780-aa5e23bc096e:Screenshot_(280).png)
 
 ---
 
@@ -244,7 +246,7 @@ pipeline {
 }
 ```
 
-![Screenshot (281).png](attachment:0ab27478-79ec-4284-9d7a-b686d66aca04:Screenshot_(281).png)
+![Screenshot (281).png](attachment:ff6aafff-e8ff-4f58-af6a-cd7440073df8:Screenshot_(281).png)
 
 ## Deployment Issue: Permission Denied Error
 
