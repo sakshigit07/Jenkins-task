@@ -1,6 +1,7 @@
-# Readme.md
+# 🚀 Jenkins CI/CD Deployment – FitLife Gym
 
-[Jenkins_task.pdf](attachment:1dd9a150-76b9-41d2-afb8-896c1cfe0f30:Jenkins_task.pdf)
+[Jenkins_task.pdf](https://github.com/user-attachments/files/25579013/Jenkins_task.pdf)
+
 
 # Jenkins task
 
@@ -83,11 +84,9 @@ You are responsible for complete automation.
     - Ensure port 80 is open
     - Website should be accessible via browser
     
-    <img src="Screenshot(276).png" width="700">
-    
-    ![Screenshot (282).png](attachment:c068e9b3-6834-47b4-ac62-7c3e987ecf7f:c40bf4dc-8f89-4aa4-98a0-f312b2281cc0.png)
-    
-    ---
+  <img width="1366" height="768" alt="Screenshot (276)" src="https://github.com/user-attachments/assets/44fa2e30-d82e-4172-b541-c590267edd7a" />
+
+-
     
     ### Task 2: Create GitHub Repository
     
@@ -98,7 +97,8 @@ You are responsible for complete automation.
 gym-static-website
 ```
 
-![Screenshot (277).png](attachment:f5d753c9-9b9a-4635-9737-0249ec5fcf6b:Screenshot_(277).png)
+<img width="1366" height="768" alt="Screenshot (277)" src="https://github.com/user-attachments/assets/ce2044b3-8613-4588-ac78-9b9a51eee8b2" />
+
 
 1. Add the following HTML code:
     
@@ -150,7 +150,8 @@ git remote add origin https://github.com/sakshigit07/gym-static-website.git
 git push -u origin main
 ```
 
-![Screenshot (278).png](attachment:23e6cf97-3b3c-480d-bf68-45e940a67d7d:Screenshot_(278).png)
+<img width="1366" height="768" alt="Screenshot (278)" src="https://github.com/user-attachments/assets/cb589292-4297-4eed-bd5b-3deb25bf5182" />
+
 
 ---
 
@@ -172,7 +173,8 @@ Hi from FitLife Gym
 
 Push the changes to GitHub.
 
-![Screenshot (279).png](attachment:ec93007b-1a69-461b-b7a3-3bffefc39040:Screenshot_(279).png)
+<img width="1366" height="768" alt="Screenshot (279)" src="https://github.com/user-attachments/assets/432c39fb-cc2c-4022-8fb9-5a4af8f14818" />
+
 
 ---
 
@@ -181,7 +183,8 @@ Push the changes to GitHub.
 - Configure GitHub webhook
 - Trigger Jenkins job automatically on push
 
-![Screenshot (280).png](attachment:b22d662d-7b4c-428d-b780-aa5e23bc096e:Screenshot_(280).png)
+<img width="1366" height="768" alt="Screenshot (280)" src="https://github.com/user-attachments/assets/8b92329d-533a-4738-8056-f9723fe65a6b" />
+
 
 ---
 
@@ -246,7 +249,8 @@ pipeline {
 }
 ```
 
-![Screenshot (281).png](attachment:ff6aafff-e8ff-4f58-af6a-cd7440073df8:Screenshot_(281).png)
+<img width="1366" height="768" alt="Screenshot (281)" src="https://github.com/user-attachments/assets/474a790b-2b05-4e60-8ba3-f8928f34ca37" />
+
 
 ## Deployment Issue: Permission Denied Error
 
