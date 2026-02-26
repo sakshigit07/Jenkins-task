@@ -43,12 +43,12 @@ shell commands?**
     B) Execute steps after pipeline stages
     
 
-1. W**hat is the use of `sshagent` in Jenkins Pipeline?**
+9. **What is the use of `sshagent` in Jenkins Pipeline?**
     
     C) Use stored SSH credentials during execution
     
 
-1. **What happens if a stage fails in Jenkins Pipeline (by default)?**
+10. **What happens if a stage fails in Jenkins Pipeline (by default)?**
     
     B) The pipeline stops execution
     
@@ -83,7 +83,7 @@ You are responsible for complete automation.
     - Ensure port 80 is open
     - Website should be accessible via browser
     
-    ![Screenshot (276).png](attachment:11336853-479b-43ec-8455-45d1cada3243:Screenshot_(276).png)
+    <img src="Screenshot(276).png" width="700">
     
     ![Screenshot (282).png](attachment:c068e9b3-6834-47b4-ac62-7c3e987ecf7f:c40bf4dc-8f89-4aa4-98a0-f312b2281cc0.png)
     
